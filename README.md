@@ -1,4 +1,4 @@
-# Tadele Getachew - Futuristic Portfolio
+# Tadele Getachew -  Portfolio
 
 A modern, futuristic portfolio website showcasing my skills and experience as a Computer Engineer, Project Manager, and AI/ML enthusiast.
 
